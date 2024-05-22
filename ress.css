@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.content h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.resume-title h2{
+    text-align: center;
+    padding: 10px;
+}
+
+.res{
+    margin-top: 50px;
+}
+.contact{
+    margin: 30px;
+}
+.contact h1{
+    margin: 15px;
+}
+.mail{
+    margin: 9px;
+}
+.git{
+    margin: 9px;
+}
+.twitter{
+    margin: 9px;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+}
+
+.abot{
+    margin: 50px;
+    transform: translateX(50%);
+}
+.abot p{
+    margin: 9px;
+}
+.skill{
+    display: flex;
+    flex-direction: row;
+}
+.skel{
+    margin: 30px; 
+}
+.work{
+    margin: 50px;
+    transform: translateX(70%);
+}
+.educat{
+    margin: 30px;
+}
+.educat h1{
+    margin: 9px;
+}
+.educat h4{
+    margin: 9px;
+}
+.educat p{
+    margin: 9px;
+}
+
+
+.edu{
+    display: flex;
+    flex-direction: row;
+}
+.job{
+    margin: 50px;
+    transform: translateX(70%);
+}
+.job-cont p{
+   margin: 7px;
+}
